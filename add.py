@@ -1,5 +1,5 @@
-def add(a,b):
-    return a+b
+def add(a,c):
+    return a+c
 
 res = add(3,4);
 print(res)
